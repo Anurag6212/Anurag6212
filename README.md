@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anurag6212
-- 👀 I’m interested in Web Development && Data Science
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Data Structure and algorithm
 - 💞️ I’m looking to collaborate on Web Development 
 - 📫 How you can reach me - https://www.linkedin.com/in/anurag-upadhyay-6378941a3/
